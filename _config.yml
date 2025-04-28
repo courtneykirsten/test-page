@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Courtney Allen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Courtney Allen"
+description              : &description "Social Demographer"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "courtneykirsten.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5750-5988"
   semantic         : # URL
   pubmed           : 
-  researchgate     : https://www.researchgate.net/profile/Courtney-Allen-9?ev=hdr_xprf
+  researchgate     : "https://www.researchgate.net/profile/Courtney-Allen-9?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
