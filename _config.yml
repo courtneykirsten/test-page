@@ -26,7 +26,7 @@ author:
   name             : "Courtney K Allen"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
-  location         : "Earth"
+  location         : "Seattle, Washington"
   employer         : "University of Washington"
   uri              : 
   email            : "ckallen@uw.edu" 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-5750-5988"
   semantic         : # URL
-  pubmed           : 
+#  pubmed           : 
   researchgate     : "https://www.researchgate.net/profile/Courtney-Allen-9?ev=hdr_xprf"
   scopus           : # URL
 
