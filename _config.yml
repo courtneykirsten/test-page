@@ -22,7 +22,7 @@ repository               : "courtneykirsten.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot.JPG"
+  avatar           : "/images/headshot.jpg"
   name             : "Courtney K Allen"
   pronouns         : "she/her"  
   bio              : "PhD Candidate"
