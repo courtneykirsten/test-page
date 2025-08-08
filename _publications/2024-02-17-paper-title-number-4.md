@@ -1,5 +1,6 @@
 ---
 title: "Computational Demography and Health (Book Chapter)"
+collection: publications
 
 ---
 
