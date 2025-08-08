@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Computational Demography and Health (Book Chapter)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-compdemography
