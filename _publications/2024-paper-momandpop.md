@@ -2,13 +2,13 @@
 title: "“Mom-and-Pop” Landlords and Regulatory Backlash: A Seattle Case Study"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-paper-6
+permalink: /publication/2024-paper-momandpop
 excerpt: 'This paper uses a novel set of consumer data linked with parcel records and provides no evidence that tenant protection laws drove “mom-and-pop” landlords out of the rental market, counter to pervasive ploitical narratives.'
 date: 2024-01-01
 venue: 'Socius'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://doi.org/10.1177/23780231241296169'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+bibtexurl: 'http://academicpages.github.io/files/bibtex-2024-momandpop.bib'
 citation: 'Reosti, A., Hess, C., Allen, C., & Crowder, K. (2024). &quot;“Mom-and-Pop” Landlords and Regulatory Backlash: A Seattle Case Study.&quot; <i>Socius 1</i>. 10.'
 ---
 Against the backdrop of an acute rental affordability crisis and a resurgent tenant’s rights movement, rental industry groups have frequently argued that tenant protection laws disproportionately harm “mom-and-pop” landlords and, by extension, the disadvantaged tenants they serve. We leverage a changing regulatory environment in Seattle to provide a rare empirical interrogation of these claims. Our analysis of a novel set of consumer data linked with parcel records provides no evidence that tenant protection laws drove “mom-and-pop” landlords out of the rental market. Moreover, our analysis of a survey of almost four thousand Seattle landlords suggests that “mom-and-pop” landlords utilize management practices that are largely similar to those employed by landlords with larger rental portfolios. Our findings run counter to pervasive political narratives regarding the detrimental effects of tenant protection regulations on the small-scale rental sector and bring needed attention to the repercussions of claims-making for stratification in the housing context.
