@@ -3,7 +3,7 @@ title: "Computational Demography and Health (Book Chapter)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-compdemography
-excerpt: 'This chapter reviews this emerging field's new data sources, methods, and applications.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-09-08
 venue: 'Handbook of Computational Social Science, forthcoming 2025'
 paperurl: 'https://arxiv.org/abs/2309.13056'
