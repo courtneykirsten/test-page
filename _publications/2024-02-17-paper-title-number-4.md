@@ -3,6 +3,8 @@ title: "Computational Demography and Health (Book Chapter)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-compdemography
+date: 2023-09-08
+venue: 'Handbook of Computational Social Science, forthcoming 2025'
 paperurl: 'https://arxiv.org/abs/2309.13056'
 citation: 'Almquist, Zack W., Courtney Allen, and Ihsan Kahveci. (2023). &quot;. Computational Demography and Health (Book Chapter).&quot; <i>Handbook of Computational Social Science, forthcoming 2025.</i>.'
 ---
