@@ -1,6 +1,11 @@
 ---
 title: "Computational Demography and Health (Book Chapter)"
 collection: publications
+category: manuscripts
+permalink: /publication/2023-compdemography
+excerpt: 'This chapter reviews this emerging field's new data sources, methods, and applications.'
+date: 2023-09-08
+venue: 'Handbook of Computational Social Science, forthcoming 2025'
 
 ---
 
