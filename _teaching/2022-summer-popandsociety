@@ -11,8 +11,5 @@ location: "Seattle, Washington"
 [SYLLABUS](https://github.com/courtneykirsten/test-page/blob/master/files/SOC%20331%20Su%202022%20Syllabus.pdf)
 
 
-<object
-    data="https://github.com/courtneykirsten/test-page/blob/master/files/SOC%20331%20Su%202022%20Syllabus.pdf"
-    type="application/pdf">
-    <iframe src="https://docs.google.com/viewer?url=https://github.com/courtneykirsten/test-page/blob/master/files/SOC%20331%20Su%202022%20Syllabus.pdf&embedded=true"></iframe>
-</object>
+<a href="(https://github.com/courtneykirsten/test-page/files/SOC%20331%20Su%202022%20Syllabus.pdf" target="_blank">please click here.</a> <embed src="https://github.com/courtneykirsten/test-page/files/SOC%20331%20Su%202022%20Syllabus.pdf" width="1000px" height="800px" />
+
